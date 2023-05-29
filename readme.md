@@ -33,6 +33,8 @@ O que foi que eu aprendi aqui?
 
 O que foi que eu aprendi aqui?
 
+Esta aula foi um pouco confusa para mim, não consegui fazer a atividade do jeito que eu queria.
+
 
 ## Aula 8
 
@@ -42,3 +44,5 @@ O que foi que eu aprendi aqui?
 ## Aula 9
 
 O que foi que eu aprendi aqui?
+
+Aprendi a fazer um fork 
